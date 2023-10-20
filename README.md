@@ -6,7 +6,7 @@ Welcome to the Responsive Circular Navigation Menu project! 🚀
 
 Demo Link: https://itchuty.github.io/Circular-Navigation-Menu/
 
-Check out the video tutorial on my YouTube channel: [📺 ITChuty-Navi](https://www.youtube.com/@ITChuty-navi)
+Check out the video tutorial on my YouTube channel: 📺 https://www.youtube.com/@ITChuty-navi
 
 Technologies Used
 - HTML
@@ -29,8 +29,8 @@ How to Contribute
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. We welcome any improvements, bug fixes, or additional features.
 
 Author
-- GitHub: [YourGitHubUsername](https://github.com/ITChuty)
-- YouTube: [📺 ITChuty-Navi](https://www.youtube.com/@ITChuty-navi)
+- GitHub: https://github.com/ITChuty
+- YouTube: 📺 https://www.youtube.com/@ITChuty-navi
 
 Feel free to reach out with any questions or feedback! 📬
 
