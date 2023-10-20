@@ -4,7 +4,7 @@
 
 Welcome to the Responsive Circular Navigation Menu project! 🚀
 
-Demo Link: 
+Demo Link: https://itchuty.github.io/Circular-Navigation-Menu/
 
 Check out the video tutorial on my YouTube channel: [📺 ITChuty-Navi](https://www.youtube.com/@ITChuty-navi)
 
